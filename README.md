@@ -1,1 +1,1 @@
-# Titanic-passengers
+# Titanic-passengers.A popular task from Kaggle about the passengers of the Titanic. The Titanic dataset contains data on the passengers of the ship. The goal of the problem is to build a model that can best predict whether a random passenger is alive or not.
